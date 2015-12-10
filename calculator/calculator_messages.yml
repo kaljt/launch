@@ -1,0 +1,9 @@
+# calculator_messages.yaml
+
+welcome: 'Welcome to Calculator! Enter your name:'
+number1: 'Whats the first number?'
+number2: 'Whats the second number?'
+invalid: 'Invalid input!'
+menu: "Must choose 1, 2, 3, or 4"
+continue: 'Do you want to perform another calculation? (Y or N)'
+goodbye: 'Thank you for playing.  Goodbye.'
